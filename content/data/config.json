@@ -1,8 +1,0 @@
-{
-    "type": "SiteConfig",
-    "title": "Stackbit",
-    "footer": {
-        "type": "FooterConfig",
-        "body": "Made by [Stackbit](https://www.stackbit.com/)\n"
-    }
-}
