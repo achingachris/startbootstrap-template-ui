@@ -1,6 +1,6 @@
 {
   "name": "ariesair",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
